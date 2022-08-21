@@ -1,3 +1,1 @@
-Hello, Hexlet!
-fffdddd
-next
+Hello, Hex! How are you?
